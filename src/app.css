@@ -1,0 +1,34 @@
+#title{
+    background-color: #314472;
+    color: aliceblue;
+    
+}
+
+.style-form{
+    background-color: #edf0f8;
+    padding: 70px;
+    border-radius: 10px;
+}
+
+#add-product{
+    color: rgb(22, 21, 21);
+    font-family: sans-serif;
+    border-radius: 3px;
+}
+
+.style-text-table{
+    font-size: 15px;
+}
+
+.style-button{
+    background-color:#415b98;
+}
+/*saca spin*/
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+input[type=number] { 
+    -moz-appearance:textfield;
+}
